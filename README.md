@@ -1,5 +1,7 @@
 # Hi 👋, I’m Uzair Ahmed
 
+A passionate frontend developer from Pakistan
+
 <img src="./resources/javascript.jpg" alt="Hello world">
 
 <p align="center"> 
@@ -19,6 +21,14 @@ I possess the following distinguishing
 - Open source :octocat:
 - Backend Development ⚡
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzzii-21&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=uzzii-21&show_icons=true&locale=en" alt="uzzii-21" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzzii-21&show_icons=true&locale=en&layout=compact" alt="uzzii-21" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzzii-21&" alt="uzzii-21" /></p>
+
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,4 +42,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+   -->
