@@ -1,7 +1,26 @@
-### Hi there 👋
+# Hi 👋, I’m Uzair Ahmed
+
+<img src="./resources/javascript.jpg" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+## About me
+
+Web Developer with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development. I have 2 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, Styledcomponent, React JS and Next JS. Hence, I have successfully completed several web projects from scratch.
+Yet, I learn continuously and never stop exploring new technologies. So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python, firebase and React Native with time.
+I possess the following distinguishing
+
+## Things I am passionate about
+
+- AI / AIOT :robot:
+- Open source :octocat:
+- Backend Development ⚡
 
 <!--
-**uzzii-21/uzzii-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
