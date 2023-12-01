@@ -20,7 +20,7 @@ I possess the following distinguishing
 - AI / AIOT :robot:
 - Open source :octocat:
 - Backend Development ⚡
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/656a0aca5145316d25a272f1?variant=dark)](https://roadmap.sh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzzii-21&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzzii-21&" alt="uzzii-21" /></p>
